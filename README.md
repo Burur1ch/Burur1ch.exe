@@ -45,7 +45,4 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-
-<img src="https://raw.githubusercontent.com/Burur1ch/Burur1ch/output/snake.svg" alt="Snake animation" />
-
-![Snake animation]( https://github.com/Burur1ch/Burur1ch/blob/output/github-contribution-grid-snake.svg )
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
