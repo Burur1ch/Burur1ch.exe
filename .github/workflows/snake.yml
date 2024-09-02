@@ -15,7 +15,7 @@ jobs:
         uses: Platane/snk@v2.2.1
         with:
           github_user_name: Burur1ch
-          output: dist/snake.svg
+          svg_out_path: dist/snake.svg
       - name: Push Snake Animation to GitHub
         uses: EndBug/add-and-commit@v9
         with:
