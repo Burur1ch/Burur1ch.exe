@@ -46,7 +46,6 @@
 </div>
 
 
-
-
+<img src="https://raw.githubusercontent.com/Burur1ch/Burur1ch/output/snake.svg" alt="Snake animation" />
 
 ![Snake animation]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
