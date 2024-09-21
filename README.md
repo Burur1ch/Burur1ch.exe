@@ -1,10 +1,10 @@
 [![codewars](https://www.codewars.com/users/Burur1ch_X/badges/large)](https://www.codewars.com/users/Burur1ch_X)
 <div id="header" align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3cxYXphemMyNTZwdzI4N3RqajlodHhjYmJuNDh1ZWs5a2RqMWl1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IyF9ol1Uv4zpJMpqYk/giphy.gif" width="180"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNwbWVheHByb2wwNmU1ODhmOGQ4OWRnamhoaG0zbTJ5c2s2aGloMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/voc8CD0u4w6cxeu2XJ/giphy.gif" width="180"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM5cnRkMGozeHlybTJveTR4NWkzNXoxNWdiOTIxcnk5aXpzOTBkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuXXtmFtf139HPENuX/giphy.gif" width="180"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHozZDBsNngxdnU0eDF1Zmh3Y3hkaGlkNmlkZmI5N3A5ZjAwdGo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lft2sXRc0fK84dsKdk/giphy.gif" width="180"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d4MTdlY3Nud3Z4ZXUwY2J1cWp6MzQwb3F0aDBsZWNvNWFoMnVlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgVrGZxvVEFLUNqDhi/giphy.gif" width="180"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3cxYXphemMyNTZwdzI4N3RqajlodHhjYmJuNDh1ZWs5a2RqMWl1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IyF9ol1Uv4zpJMpqYk/giphy.gif" width="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNwbWVheHByb2wwNmU1ODhmOGQ4OWRnamhoaG0zbTJ5c2s2aGloMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/voc8CD0u4w6cxeu2XJ/giphy.gif" width="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM5cnRkMGozeHlybTJveTR4NWkzNXoxNWdiOTIxcnk5aXpzOTBkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuXXtmFtf139HPENuX/giphy.gif" width="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHozZDBsNngxdnU0eDF1Zmh3Y3hkaGlkNmlkZmI5N3A5ZjAwdGo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lft2sXRc0fK84dsKdk/giphy.gif" width="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d4MTdlY3Nud3Z4ZXUwY2J1cWp6MzQwb3F0aDBsZWNvNWFoMnVlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgVrGZxvVEFLUNqDhi/giphy.gif" width="150"/>
 </div>
 
 
